@@ -1,0 +1,16 @@
+pstats-max-rate 200
+vfs-case-sensitive #f
+gl-cube-map-seamless #t
+model-cache-textures #f
+show-buffers #f
+gl-coordinate-system default
+lock-to-one-cpu #f
+support-threads #t
+screenshot-extension png
+load-display pandagl
+audio-library-name p3fmod_audio
+default-model-extension .bam
+preload-textures 0
+preload-simple-textures 1
+texture-compression 1
+allow-incomplete-render 1

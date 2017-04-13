@@ -1,0 +1,2 @@
+add more actual gameplay
+make the save file a more secure file, not just a txt file
