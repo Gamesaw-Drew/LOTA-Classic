@@ -1,8 +1,6 @@
 # This Project is now Defunct
 ## The recreation of this project in Unity can be downloaded at https://gamesaw-drew.github.io/LegendOfTheAMD/
-## It may become open source in the future
-
-
+## The Unity verison is now OPEN SOURCE! It can be found at https://github.com/Gamesaw-Drew/LOTA-Unity/
 # Legend of the AMD
 ----
 ## Backstory:
